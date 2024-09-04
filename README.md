@@ -4,9 +4,9 @@ HR analysis is a SQL project for analysis of HR, their personal and professional
 This project involves analyzing HR data to gain insights into employee metrics, performance, and trends using SQL. The goal is to create a set of queries and reports that can help HR professionals make data-driven decisions.
 
 Project Structure
-1)data/: Contains sample HR datasets used for analysis.
-scripts/: SQL scripts and queries for data analysis.
-README.md: This file, providing an overview and instructions.
+1)HRdataset/: Contains sample HR datasets used for analysis.
+2)HR/: SQL scripts and queries for data analysis.
+3)README.md: This file, providing an overview and instructions.
 
 Prerequisites
 To run the SQL scripts and work with the data, you'll need:
